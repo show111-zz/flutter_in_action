@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_in_action/CounterWidget.dart';
-import 'package:flutter_in_action/RandomWordsWidget.dart';
-import 'package:flutter_in_action/TipRoute.dart';
+import 'package:flutter_in_action/chapter2/CounterWidget.dart';
+import 'package:flutter_in_action/chapter2/RandomWordsWidget.dart';
+import 'package:flutter_in_action/chapter2/TipRoute.dart';
 
-import 'CupertinoTestRoute.dart';
-import 'EchoRouter.dart';
-import 'NewRouter.dart';
+import 'chapter2/CupertinoTestRoute.dart';
+import 'chapter2/EchoRouter.dart';
+import 'chapter2/NewRouter.dart';
 
 void main() => runApp(MyApp());
 

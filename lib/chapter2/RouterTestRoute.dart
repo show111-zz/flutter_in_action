@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_in_action/TipRoute.dart';
+import 'package:flutter_in_action/chapter2/TipRoute.dart';
 
 class RouterTestRoute extends StatelessWidget {
 
